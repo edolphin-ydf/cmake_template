@@ -1,0 +1,2 @@
+/home/yangdongfeng/documents/cpp/cmake_template/build/bin/CMakeFiles/hello.dir
+/home/yangdongfeng/documents/cpp/cmake_template/build/lib/CMakeFiles/libhello.dir

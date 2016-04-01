@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/hello.dir/main.c.o  -o hello  -L/home/yangdongfeng/documents/cpp/cmake_template/build/lib -rdynamic ../lib/libhello.a -Wl,-rpath,/home/yangdongfeng/documents/cpp/cmake_template/build/lib 
